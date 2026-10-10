@@ -1,0 +1,5 @@
+﻿.vscode/
+data/raw_data_nouh/IMS/
+figures/
+data/train_test_data.zip
+notebooks/app.py

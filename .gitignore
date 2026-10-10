@@ -1,0 +1,33 @@
+﻿# Python environments
+.venv/
+env_cache/
+
+# Caches
+psd_cache/
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+
+# Large datasets
+*.csv
+IMS/
+
+# Model checkpoints
+*.pth
+*.pt
+*.h5
+*.keras
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated figures
+figures/
+
+# Large datasets
+!nti_project_graduation/data/**/*.csv
+!nti_project_graduation/data/*.csv
+IMS/

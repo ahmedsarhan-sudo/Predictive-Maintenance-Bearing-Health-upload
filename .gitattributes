@@ -1,0 +1,5 @@
+nti_project_graduation/data/**/*.csv filter=lfs diff=lfs merge=lfs -text
+nti_project_graduation/notebooks/*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+nti_project_graduation/models_pkl/*.pkl filter=lfs diff=lfs merge=lfs -text
